@@ -1,0 +1,12 @@
+{
+    "languageName":"Swahili",
+    "passwordGenerator":"Jenereta ya nenosiri",
+    "upperCase":"Herufi kubwa",
+    "lowerCase":"Herufi ndogo",
+    "symbols":"Alama",
+    "numbers":"Nambari",
+    "generatePassword":"Tengeneza nenosiri",
+    "passwordCopiedToClipboard":"Nenosiri limenakiliwa kwenye Ubao wa kunakili",
+    "selectAtLeast1option":"Chagua angalau chaguo moja"
+
+}

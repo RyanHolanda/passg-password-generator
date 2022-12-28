@@ -1,0 +1,11 @@
+{
+    "languageName":"Turkmen",
+    "passwordGenerator":"Parol generatory",
+    "upperCase":"Baş harp",
+    "lowerCase":"Baş harp",
+    "symbols":"Nyşanlary",
+    "numbers":"Sanlar",
+    "generatePassword":"Parol dörediň",
+    "passwordCopiedToClipboard":"Parol buferde göçürildi",
+    "selectAtLeast1option":"Iň bolmanda bir warianty saýlaň" 
+}

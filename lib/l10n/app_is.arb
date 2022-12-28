@@ -1,0 +1,11 @@
+{
+    "languageName":"Icelandic",
+    "passwordGenerator":"Lykilorð rafall",
+    "upperCase":"Hástafir",
+    "lowerCase":"Lágstafir",
+    "symbols":"Tákn",
+    "numbers":"Tölur",
+    "generatePassword":"Búðu til lykilorð",
+    "passwordCopiedToClipboard":"Lykilorð afritað á klemmuspjald",
+    "selectAtLeast1option":"Veldu að minnsta kosti einn valmöguleika"
+}

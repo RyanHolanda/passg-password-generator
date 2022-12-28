@@ -1,0 +1,12 @@
+{
+    "languageName":"Zulu",
+    "passwordGenerator":"I-password generator",
+    "upperCase":"Osonhlamvukazi",
+    "lowerCase":"Osonhlamvukazi abancane",
+    "symbols":"Izimpawu",
+    "numbers":"Izinombolo",
+    "generatePassword":"Khiqiza iphasiwedi",
+    "passwordCopiedToClipboard":"Iphasiwedi ikopishelwe ebhodini lokunamathisela",
+    "selectAtLeast1option":"Khetha okungenani inketho eyodwa"
+    
+}

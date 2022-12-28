@@ -1,0 +1,11 @@
+{
+    "languageName":"Kannada",
+    "passwordGenerator":"ಪಾಸ್ವರ್ಡ್ ಜನರೇಟರ್",
+    "upperCase":"ದೊಡ್ಡಕ್ಷರ",
+    "lowerCase":"ಸಣ್ಣಕ್ಷರ",
+    "symbols":"ಚಿಹ್ನೆಗಳು",
+    "numbers":"ಸಂಖ್ಯೆಗಳು",
+    "generatePassword":"ಪಾಸ್ವರ್ಡ್ ರಚಿಸಿ",
+    "passwordCopiedToClipboard":"ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ",
+    "selectAtLeast1option":"ಕನಿಷ್ಠ ಒಂದು ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ"
+}

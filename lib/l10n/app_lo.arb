@@ -1,0 +1,11 @@
+{
+    "languageName":"Lao",
+    "passwordGenerator":"ຕົວສ້າງລະຫັດຜ່ານ",
+    "upperCase":"ຕົວພິມໃຫຍ່",
+    "lowerCase":"ຕົວພິມນ້ອຍ",
+    "symbols":"ສັນຍາລັກ",
+    "numbers":"ຕົວເລກ",
+    "generatePassword":"ສ້າງລະຫັດຜ່ານ",
+    "passwordCopiedToClipboard":"ສຳເນົາລະຫັດຜ່ານໃສ່ຄລິບບອດແລ້ວ",
+    "selectAtLeast1option":"ເລືອກຢ່າງໜ້ອຍໜຶ່ງທາງເລືອກ"   
+}

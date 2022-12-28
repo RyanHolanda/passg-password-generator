@@ -1,0 +1,12 @@
+{
+    "languageName":"Macedonian",
+    "passwordGenerator":"Генератор на лозинки",
+    "upperCase":"Големи букви",
+    "lowerCase":"Мали букви",
+    "symbols":"Симболи",
+    "numbers":"Броеви",
+    "generatePassword":"Генерирајте лозинка",
+    "passwordCopiedToClipboard":"Лозинката е копирана во таблата со исечоци",
+    "selectAtLeast1option":"Изберете барем една опција" 
+      
+}

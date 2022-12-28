@@ -1,0 +1,11 @@
+{
+    "languageName":"Slovenian",
+    "passwordGenerator":"Generator gesel",
+    "upperCase":"Velike črke",
+    "lowerCase":"Male črke",
+    "symbols":"Simboli",
+    "numbers":"Številke",
+    "generatePassword":"Ustvari geslo",
+    "passwordCopiedToClipboard":"Password copied to Clipboard",
+    "selectAtLeast1option":"Izberite vsaj eno možnost"
+}

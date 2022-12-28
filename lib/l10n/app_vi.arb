@@ -1,0 +1,11 @@
+{
+    "languageName":"Vietnamese",
+    "passwordGenerator":"Tạo mật khẩu",
+    "upperCase":"chữ hoa",
+    "lowerCase":"chữ thường",
+    "symbols":"ký hiệu",
+    "numbers":"con số",
+    "generatePassword":"Tạo mật khẩu",
+    "passwordCopiedToClipboard":"Đã sao chép mật khẩu vào Clipboard",
+    "selectAtLeast1option":"Chọn ít nhất một tùy chọn"
+}

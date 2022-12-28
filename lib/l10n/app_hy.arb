@@ -1,0 +1,11 @@
+{
+    "languageName":"Armenian",
+    "passwordGenerator":"Գաղտնաբառերի գեներատոր",
+    "upperCase":"Մեծատառ",
+    "lowerCase":"Փոքրատառ",
+    "symbols":"Փոքրատառ",
+    "numbers":"Թվեր",
+    "generatePassword":"Ստեղծեք գաղտնաբառ",
+    "passwordCopiedToClipboard":"Գաղտնաբառը պատճենված է սեղմատախտակին",
+    "selectAtLeast1option":"Ընտրեք առնվազն մեկ տարբերակ"
+}

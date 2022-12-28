@@ -1,0 +1,12 @@
+{
+    "languageName":"Finnish",
+    "passwordGenerator":"Salasanageneraattori",
+    "upperCase":"Isot kirjaimet",
+    "lowerCase":"Pienet kirjaimet",
+    "symbols":"Symbolit",
+    "numbers":"Numerot",
+    "generatePassword":"Luo salasana",
+    "passwordCopiedToClipboard":"Salasana kopioitu leikepöydälle",
+    "selectAtLeast1option":"Valitse vähintään yksi vaihtoehto"
+
+}

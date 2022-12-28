@@ -1,0 +1,11 @@
+{
+    "languageName":"Croatian",
+    "passwordGenerator":"Generator lozinki",
+    "upperCase":"velika slova",
+    "lowerCase":"mala slova",
+    "symbols":"Simboli",
+    "numbers":"Brojke",
+    "generatePassword":"Generiraj lozinku",
+    "passwordCopiedToClipboard":"Lozinka kopirana u međuspremnik",
+    "selectAtLeast1option":"Odaberite barem jednu opciju"
+}

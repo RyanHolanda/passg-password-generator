@@ -1,0 +1,11 @@
+{
+    "languageName":"Albanian",
+    "passwordGenerator":"Gjenerues ifjalëkalimeve",
+    "upperCase":"Me shkronja kapitale",
+    "lowerCase":"Shkronjat e vogla",
+    "symbols":"Simbolet",
+    "numbers":"Numrat",
+    "generatePassword":"gjeneroni fjalëkalim",
+    "passwordCopiedToClipboard":"Fjalëkalimi u kopjua në kujtesën e fragmenteve",
+    "selectAtLeast1option":"Zgjidhni të paktën një opsion"
+}

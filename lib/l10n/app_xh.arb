@@ -1,0 +1,12 @@
+{
+    "languageName":"Xhose",
+    "passwordGenerator":"Password generator",
+    "upperCase":"UpperCase",
+    "lowerCase":"LowerCase",
+    "symbols":"Symbols",
+    "numbers":"Numbers",
+    "generatePassword":"Generate Password",
+    "passwordCopiedToClipboard":"Password copied to Clipboard",
+    "selectAtLeast1option":"Select at least one option"
+    
+}

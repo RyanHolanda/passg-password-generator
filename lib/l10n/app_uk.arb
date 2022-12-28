@@ -1,0 +1,12 @@
+{
+    "languageName":"Ukrainian",
+    "passwordGenerator":"Генератор паролів",
+    "upperCase":"Великі літери",
+    "lowerCase":"Малі літери",
+    "symbols":"Символи",
+    "numbers":"Числа",
+    "generatePassword":"Згенерувати пароль",
+    "passwordCopiedToClipboard":"Пароль скопійовано в буфер обміну",
+    "selectAtLeast1option":"Виберіть хоча б один варіант" 
+
+}

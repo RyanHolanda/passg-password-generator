@@ -1,0 +1,11 @@
+{
+    "languageName":"Czech",
+    "passwordGenerator":"Generátor hesel",
+    "upperCase":"Velká písmena",
+    "lowerCase":"Malá písmena",
+    "symbols":"Symboly",
+    "numbers":"Čísla",
+    "generatePassword":"Vygenerovat heslo",
+    "passwordCopiedToClipboard":"Heslo zkopírováno do schránky",
+    "selectAtLeast1option":"Vyberte alespoň jednu možnost"
+}

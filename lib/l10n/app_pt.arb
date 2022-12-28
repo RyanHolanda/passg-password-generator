@@ -1,0 +1,12 @@
+{
+    "languageName":"Portuguese",
+    "passwordGenerator":"Gerador de senha",
+    "upperCase":"Letras maiúsculas",
+    "lowerCase":"Letras minúsculas",
+    "symbols":"Símbolos",
+    "numbers":"Números",
+    "generatePassword":"Gerar senha",
+    "passwordCopiedToClipboard":"Senha copiada para área de transferência",
+    "selectAtLeast1option":"Selecione no mínimo 1 opção"
+
+}

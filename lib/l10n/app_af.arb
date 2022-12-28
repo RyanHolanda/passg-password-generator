@@ -1,0 +1,11 @@
+{
+    "languageName":"Afrikaans",
+    "passwordGenerator":"Wagwoordgenerator",
+    "upperCase":"Hoofletters",
+    "lowerCase":"Kleinletters",
+    "symbols":"Simbole",
+    "numbers":"Getalle",
+    "generatePassword":"Genereer wagwoord",
+    "passwordCopiedToClipboard":"Wagwoord is na Knipbord gekopieer",
+    "selectAtLeast1option":"Kies ten minste een opsie"
+}

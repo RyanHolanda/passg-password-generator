@@ -1,0 +1,11 @@
+{
+    "languageName":"Chinese",
+    "passwordGenerator":"密码生成器",
+    "upperCase":"大写",
+    "lowerCase":"小写",
+    "symbols":"符号",
+    "numbers":"数字",
+    "generatePassword":"生成密码",
+    "passwordCopiedToClipboard":"密码已复制到剪贴板",
+    "selectAtLeast1option":"选择至少一个选项"
+}

@@ -1,0 +1,11 @@
+{
+    "languageName":"Nepali",
+    "passwordGenerator":"पासवर्ड जनरेटर",
+    "upperCase":"अपरकेस",
+    "lowerCase":"लोअरकेस",
+    "symbols":"प्रतीकहरू",
+    "numbers":"नम्बरहरू",
+    "generatePassword":"पासवर्ड उत्पन्न गर्नुहोस्",
+    "passwordCopiedToClipboard":"पासवर्ड क्लिपबोर्डमा प्रतिलिपि गरियो",
+    "selectAtLeast1option":"कम्तिमा एउटा विकल्प चयन गर्नुहोस्"
+}

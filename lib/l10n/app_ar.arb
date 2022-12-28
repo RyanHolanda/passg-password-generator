@@ -1,0 +1,11 @@
+{
+    "languageName":"Arabic",
+    "passwordGenerator":"مولد كلمة السر",
+    "upperCase":"الأحرف الكبيرة",
+    "lowerCase":"أحرف صغيرة",
+    "symbols":"أحرف صغيرة",
+    "numbers":"أعداد",
+    "generatePassword":"توليد كلمة السر",
+    "passwordCopiedToClipboard":"تم نسخ كلمة المرور إلى الحافظة",
+    "selectAtLeast1option":"حدد خيارًا واحدًا على الأقل"
+}

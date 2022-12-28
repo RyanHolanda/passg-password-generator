@@ -1,0 +1,11 @@
+{
+    "languageName":"Bulgarian",
+    "passwordGenerator":"Генератор на пароли",
+    "upperCase":"Главна буква",
+    "lowerCase":"малки букви",
+    "symbols":"Символи",
+    "numbers":"Числа",
+    "generatePassword":"Генериране на парола",
+    "passwordCopiedToClipboard":"Паролата е копирана в клипборда",
+    "selectAtLeast1option":"Изберете поне една опция"
+}

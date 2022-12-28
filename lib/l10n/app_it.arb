@@ -1,0 +1,11 @@
+{
+    "languageName":"Italian",
+    "passwordGenerator":"Generatore di password",
+    "upperCase":"Maiuscolo",
+    "lowerCase":"Minuscolo",
+    "symbols":"Simboli",
+    "numbers":"Numeri",
+    "generatePassword":"Genera password",
+    "passwordCopiedToClipboard":"Password copiata negli Appunti",
+    "selectAtLeast1option":"Seleziona almeno un'opzione"
+}

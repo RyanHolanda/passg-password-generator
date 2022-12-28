@@ -1,0 +1,12 @@
+{
+    "languageName":"Hebrew",
+    "passwordGenerator":"מחולל סיסמאות",
+    "upperCase":"אותיות רישיות",
+    "lowerCase":"אותיות קטנות",
+    "symbols":"סמלים",
+    "numbers":"מספרים",
+    "generatePassword":"צור סיסמה",
+    "passwordCopiedToClipboard":"הסיסמה הועתקה ללוח",
+    "selectAtLeast1option":"בחר באפשרות אחת לפחות"
+
+}

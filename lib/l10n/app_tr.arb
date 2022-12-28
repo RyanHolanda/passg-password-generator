@@ -1,0 +1,11 @@
+{
+    "languageName":"Turkish",
+    "passwordGenerator":"Şifre oluşturucu",
+    "upperCase":"büyük harf",
+    "lowerCase":"küçük harf",
+    "symbols":"Semboller",
+    "numbers":"Sayılar",
+    "generatePassword":"Şifre oluştur",
+    "passwordCopiedToClipboard":"Parola Panoya kopyalandı",
+    "selectAtLeast1option":"En az bir seçenek belirleyin" 
+}

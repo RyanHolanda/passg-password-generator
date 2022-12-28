@@ -1,0 +1,11 @@
+{
+    "languageName":"Georgian",
+    "passwordGenerator":"პაროლის გენერატორი",
+    "upperCase":"დიდი ასო",
+    "lowerCase":"მცირე ასო",
+    "symbols":"სიმბოლოები",
+    "numbers":"ნომრები",
+    "generatePassword":"პაროლის გენერირება",
+    "passwordCopiedToClipboard":"პაროლი დაკოპირებულია ბუფერში",
+    "selectAtLeast1option":"აირჩიეთ მინიმუმ ერთი ვარიანტი"   
+}

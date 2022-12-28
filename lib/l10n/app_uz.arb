@@ -1,0 +1,12 @@
+{
+    "languageName":"English",
+    "passwordGenerator":"Parol generatori",
+    "upperCase":"Katta harf",
+    "lowerCase":"Kichik harf",
+    "symbols":"Belgilar",
+    "numbers":"Raqamlar",
+    "generatePassword":"Parol yarating",
+    "passwordCopiedToClipboard":"Parol vaqtinchalik xotiraga nusxalandi",
+    "selectAtLeast1option":"Kamida bitta variantni tanlang" 
+    
+}

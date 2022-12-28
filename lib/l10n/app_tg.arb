@@ -1,0 +1,12 @@
+{
+    "languageName":"Tajik",
+    "passwordGenerator":"Генератори парол",
+    "upperCase":"Ҳарфи калон",
+    "lowerCase":"Ҳарфи хурд",
+    "symbols":"Рамзҳо",
+    "numbers":"Рақамҳо",
+    "generatePassword":"Эҷоди парол",
+    "passwordCopiedToClipboard":"Рамз ба буфер нусхабардорӣ карда шуд",
+    "selectAtLeast1option":"Ақаллан як вариантро интихоб кунед"
+
+}

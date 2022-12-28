@@ -1,0 +1,11 @@
+{
+    "languageName":"Marathi",
+    "passwordGenerator":"पासवर्ड जनरेटर",
+    "upperCase":"अप्परकेस",
+    "lowerCase":"लोअरकेस",
+    "symbols":"चिन्हे",
+    "numbers":"संख्या",
+    "generatePassword":"पासवर्ड तयार करा",
+    "passwordCopiedToClipboard":"पासवर्ड क्लिपबोर्डवर कॉपी केला",
+    "selectAtLeast1option":"किमान एक पर्याय निवडा"
+}

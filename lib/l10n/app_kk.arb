@@ -1,0 +1,11 @@
+{
+    "languageName":"Kazakh",
+    "passwordGenerator":"Құпия сөз генераторы",
+    "upperCase":"Бас әріп",
+    "lowerCase":"Кіші әріп",
+    "symbols":"Рәміздер",
+    "numbers":"Сандар",
+    "generatePassword":"Құпия сөзді жасаңыз",
+    "passwordCopiedToClipboard":"Құпия сөз алмасу буферіне көшірілді",
+    "selectAtLeast1option":"Кем дегенде бір опцияны таңдаңыз"
+}

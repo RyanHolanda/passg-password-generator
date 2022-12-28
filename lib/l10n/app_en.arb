@@ -1,0 +1,11 @@
+{
+    "languageName":"English",
+    "passwordGenerator":"Password generator",
+    "upperCase":"Uppercase",
+    "lowerCase":"Lowercase",
+    "symbols":"Symbols",
+    "numbers":"Numbers",
+    "generatePassword":"Generate Password",
+    "passwordCopiedToClipboard":"Password copied to Clipboard",
+    "selectAtLeast1option":"Select at least one option"
+}

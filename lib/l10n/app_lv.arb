@@ -1,0 +1,11 @@
+{
+    "languageName":"Latvian",
+    "passwordGenerator":"Paroļu ģenerators",
+    "upperCase":"UppeLielie burtirCase",
+    "lowerCase":"Mazie burti",
+    "symbols":"Simboli",
+    "numbers":"Skaitļi",
+    "generatePassword":"Ģenerēt paroli",
+    "passwordCopiedToClipboard":"Parole ir kopēta starpliktuvē",
+    "selectAtLeast1option":"Atlasiet vismaz vienu opciju"      
+}

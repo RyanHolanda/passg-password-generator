@@ -1,0 +1,11 @@
+{
+    "languageName":"Basque",
+    "passwordGenerator":"Pasahitz-sortzailea",
+    "upperCase":"Maiuskulak",
+    "lowerCase":"Minuskulaz",
+    "symbols":"Minuskulaz",
+    "numbers":"Zenbakiak",
+    "generatePassword":"Sortu pasahitza",
+    "passwordCopiedToClipboard":"Pasahitza arbelean kopiatu da",
+    "selectAtLeast1option":"Hautatu gutxienez aukera bat"
+}

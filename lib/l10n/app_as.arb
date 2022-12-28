@@ -1,0 +1,11 @@
+{
+    "languageName":"Assamese",
+    "passwordGenerator":"পাছৱৰ্ড জেনেৰেটৰ",
+    "upperCase":"ডাঙৰ আখৰ",
+    "lowerCase":"ক্ষুদ্ৰ আখৰ",
+    "symbols":"প্ৰতীক",
+    "numbers":"সংখ্যা",
+    "generatePassword":"পাছৱৰ্ড সৃষ্টি কৰক",
+    "passwordCopiedToClipboard":"ক্লিপবোৰ্ডলৈ কপি কৰা হৈছে পাছৱৰ্ড",
+    "selectAtLeast1option":"অন্ততঃ এটা বিকল্প বাছক"
+}

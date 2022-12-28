@@ -1,0 +1,11 @@
+{
+    "languageName":"Catalan",
+    "passwordGenerator":"Generador de contrasenyes",
+    "upperCase":"Majúscules",
+    "lowerCase":"Minúscules",
+    "symbols":"Símbols",
+    "numbers":"nombres",
+    "generatePassword":"Genera contrasenya",
+    "passwordCopiedToClipboard":"S'ha copiat la contrasenya al porta-retalls",
+    "selectAtLeast1option":"Seleccioneu almenys una opció"
+}

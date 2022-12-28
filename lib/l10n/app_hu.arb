@@ -1,0 +1,11 @@
+{
+    "languageName":"Hungarian",
+    "passwordGenerator":"Jelszógenerátor",
+    "upperCase":"Nagybetűs",
+    "lowerCase":"Kisbetűs",
+    "symbols":"Szimbólumok",
+    "numbers":"Számok",
+    "generatePassword":"Jelszó generálása",
+    "passwordCopiedToClipboard":"A jelszó a vágólapra másolva",
+    "selectAtLeast1option":"Válasszon legalább egy lehetőséget"
+}

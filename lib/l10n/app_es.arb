@@ -1,0 +1,11 @@
+{
+    "languageName":"Spanish",
+    "passwordGenerator":"Generador de contraseñas",
+    "upperCase":"Mayúsculas",
+    "lowerCase":"Minúsculos",
+    "symbols":"simbolos",
+    "numbers":"Números",
+    "generatePassword":"Generar contraseña",
+    "passwordCopiedToClipboard":"Contraseña copiada al Portapapeles",
+    "selectAtLeast1option":"Seleccione al menos una opción"
+}

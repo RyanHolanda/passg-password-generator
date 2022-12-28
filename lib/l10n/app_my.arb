@@ -1,0 +1,11 @@
+{
+    "languageName":"Burmese",
+    "passwordGenerator":"စကားဝှက်မီးစက်",
+    "upperCase":"စာလုံးကြီး",
+    "lowerCase":"စာလုံးသေး",
+    "symbols":"စာလုံးသေး",
+    "numbers":"နံပါတ်များ",
+    "generatePassword":"စကားဝှက်ကိုဖန်တီးပါ။",
+    "passwordCopiedToClipboard":"စကားဝှက်ကို ကလစ်ဘုတ်သို့ ကူးယူထားသည်။",
+    "selectAtLeast1option":"အနည်းဆုံး ရွေးချယ်မှုတစ်ခုကို ရွေးပါ။"
+}

@@ -1,0 +1,11 @@
+{
+    "languageName":"German",
+    "passwordGenerator":"Passwortgenerator",
+    "upperCase":"Großbuchstaben",
+    "lowerCase":"Kleinbuchstaben",
+    "symbols":"Symbole",
+    "numbers":"Zahlen",
+    "generatePassword":"Generiere Passwort",
+    "passwordCopiedToClipboard":"Passwort in die Zwischenablage kopiert",
+    "selectAtLeast1option":"Wählen Sie mindestens eine Option aus"   
+}

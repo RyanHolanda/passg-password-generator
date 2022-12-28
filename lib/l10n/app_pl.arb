@@ -1,0 +1,11 @@
+{
+    "languageName":"Polish",
+    "passwordGenerator":"Generator hasła",
+    "upperCase":"Duże litery",
+    "lowerCase":"Małe litery",
+    "symbols":"Symbolika",
+    "numbers":"Liczby",
+    "generatePassword":"Wygeneruj hasło",
+    "passwordCopiedToClipboard":"Hasło zostało skopiowane do schowka",
+    "selectAtLeast1option":"Wybierz co najmniej jedną opcję"
+}

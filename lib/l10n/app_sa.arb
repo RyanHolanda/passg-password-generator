@@ -1,0 +1,11 @@
+{
+    "languageName":"Sanskrit",
+    "passwordGenerator":"गुप्तशब्द जनरेटर",
+    "upperCase":"बृहत्",
+    "lowerCase":"लघु",
+    "symbols":"प्रतीकाः",
+    "numbers":"संख्याः",
+    "generatePassword":"गुप्तशब्दं जनयन्तु",
+    "passwordCopiedToClipboard":"गुप्तशब्दः Clipboard इत्यत्र प्रतिलिपितः",
+    "selectAtLeast1option":"न्यूनातिन्यूनम् एकं विकल्पं चिनोतु"      
+}

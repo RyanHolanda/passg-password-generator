@@ -1,0 +1,11 @@
+{
+    "languageName":"Japanese",
+    "passwordGenerator":"パスワードジェネレーター",
+    "upperCase":"大文字",
+    "lowerCase":"小文字",
+    "symbols":"シンボル",
+    "numbers":"数字",
+    "generatePassword":"パスワードを生成する",
+    "passwordCopiedToClipboard":"クリップボードにコピーされたパスワード",
+    "selectAtLeast1option":"少なくとも 1 つのオプションを選択してください"
+}

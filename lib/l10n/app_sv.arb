@@ -1,0 +1,11 @@
+{
+    "languageName":"Swedish",
+    "passwordGenerator":"Lösenordsgenerator",
+    "upperCase":"Versal",
+    "lowerCase":"Små bokstäver",
+    "symbols":"Symboler",
+    "numbers":"Tal",
+    "generatePassword":"Generera lösenord",
+    "passwordCopiedToClipboard":"Lösenordet har kopierats till Urklipp",
+    "selectAtLeast1option":"Välj minst ett alternativ"
+}

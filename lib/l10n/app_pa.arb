@@ -1,0 +1,12 @@
+{
+    "languageName":"Punjabi",
+    "passwordGenerator":"ਪਾਸਵਰਡ ਜਨਰੇਟਰ",
+    "upperCase":"ਅਪਰਕੇਸ",
+    "lowerCase":"ਲੋਅਰਕੇਸ",
+    "symbols":"ਚਿੰਨ੍ਹ",
+    "numbers":"ਨੰਬਰ",
+    "generatePassword":"ਪਾਸਵਰਡ ਬਣਾਓ",
+    "passwordCopiedToClipboard":"ਪਾਸਵਰਡ ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ",
+    "selectAtLeast1option":"ਘੱਟੋ-ਘੱਟ ਇੱਕ ਵਿਕਲਪ ਚੁਣੋ"
+
+}

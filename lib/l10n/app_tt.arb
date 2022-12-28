@@ -1,0 +1,11 @@
+{
+    "languageName":"Tatar",
+    "passwordGenerator":"Серсүз генераторы",
+    "upperCase":"Баш хәреф",
+    "lowerCase":"Кечкенә хәреф",
+    "symbols":"Символлар",
+    "numbers":"Саннар",
+    "generatePassword":"Серсүз ясау",
+    "passwordCopiedToClipboard":"Серсүз буферга күчерелде",
+    "selectAtLeast1option":"Ким дигәндә бер вариантны сайлагыз"   
+}

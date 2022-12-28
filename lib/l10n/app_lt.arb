@@ -1,0 +1,12 @@
+{
+    "languageName":"Lithuanian",
+    "passwordGenerator":"Slaptažodžių generatorius",
+    "upperCase":"Didžiosios raidės",
+    "lowerCase":"Mažosios raidės",
+    "symbols":"Simboliai",
+    "numbers":"Skaičiai",
+    "generatePassword":"Sukurti slaptažodį",
+    "passwordCopiedToClipboard":"Slaptažodis nukopijuotas į mainų sritį",
+    "selectAtLeast1option":"Pasirinkite bent vieną parinktį"   
+
+}

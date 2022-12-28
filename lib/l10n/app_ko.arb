@@ -1,0 +1,12 @@
+{
+    "languageName":"Korean",
+    "passwordGenerator":"암호 생성기",
+    "upperCase":"대문자",
+    "lowerCase":"소문자",
+    "symbols":"기호",
+    "numbers":"번호",
+    "generatePassword":"비밀번호 생성",
+    "passwordCopiedToClipboard":"클립보드에 복사된 암호",
+    "selectAtLeast1option":"옵션을 하나 이상 선택하세요."
+
+}

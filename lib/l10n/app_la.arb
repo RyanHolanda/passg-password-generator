@@ -1,0 +1,12 @@
+{
+    "languageName":"Latin",
+    "passwordGenerator":"Signum generantis",
+    "upperCase":"Uppercase",
+    "lowerCase":"LowerCase",
+    "symbols":"Symbola",
+    "numbers":"Numeri",
+    "generatePassword":"Generare password",
+    "passwordCopiedToClipboard":"Password copied ad Clipboard",
+    "selectAtLeast1option":"Eligere saltem unus optio" 
+
+}

@@ -1,0 +1,11 @@
+{
+    "languageName":"Norwegian",
+    "passwordGenerator":"Passord generator",
+    "upperCase":"Stor bokstav",
+    "lowerCase":"Små bokstaver",
+    "symbols":"Symboler",
+    "numbers":"Tall",
+    "generatePassword":"Generer passord",
+    "passwordCopiedToClipboard":"Passord kopiert til utklippstavlen",
+    "selectAtLeast1option":"Velg minst ett alternativ"
+}

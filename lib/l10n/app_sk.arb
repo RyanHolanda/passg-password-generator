@@ -1,0 +1,12 @@
+{
+    "languageName":"Slovak",
+    "passwordGenerator":"Generátor hesiel",
+    "upperCase":"Veľké písmená",
+    "lowerCase":"Malými písmenami",
+    "symbols":"Symboly",
+    "numbers":"čísla",
+    "generatePassword":"Vygenerujte heslo",
+    "passwordCopiedToClipboard":"Heslo bolo skopírované do schránky",
+    "selectAtLeast1option":"Vyberte aspoň jednu možnosť"   
+       
+}

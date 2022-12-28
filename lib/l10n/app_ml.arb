@@ -1,0 +1,11 @@
+{
+    "languageName":"Malayam",
+    "passwordGenerator":"പാസ്‌വേഡ് ജനറേറ്റർ",
+    "upperCase":"വലിയക്ഷരം",
+    "lowerCase":"ചെറിയക്ഷരം",
+    "symbols":"ചിഹ്നങ്ങൾ",
+    "numbers":"നമ്പറുകൾ",
+    "generatePassword":"പാസ്‌വേഡ് സൃഷ്ടിക്കുക",
+    "passwordCopiedToClipboard":"പാസ്‌വേഡ് ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി",
+    "selectAtLeast1option":"കുറഞ്ഞത് ഒരു ഓപ്‌ഷനെങ്കിലും തിരഞ്ഞെടുക്കുക"         
+}

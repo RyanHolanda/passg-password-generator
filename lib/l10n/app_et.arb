@@ -1,0 +1,11 @@
+{
+    "languageName":"Estonian",
+    "passwordGenerator":"Parooli generaator",
+    "upperCase":"Suurtähed",
+    "lowerCase":"Väiketähtedega",
+    "symbols":"Väiketähtedega",
+    "numbers":"Numbrid",
+    "generatePassword":"Loo parool",
+    "passwordCopiedToClipboard":"Parool kopeeriti lõikelauale",
+    "selectAtLeast1option":"Valige vähemalt üks valik"      
+}

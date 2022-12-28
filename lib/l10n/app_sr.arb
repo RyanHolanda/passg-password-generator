@@ -1,0 +1,12 @@
+{
+    "languageName":"Serbian",
+    "passwordGenerator":"Генератор лозинки",
+    "upperCase":"Велика слова",
+    "lowerCase":"Мала слова",
+    "symbols":"Симболи",
+    "numbers":"Бројеви",
+    "generatePassword":"Генеришите лозинку",
+    "passwordCopiedToClipboard":"Лозинка је копирана у међуспремник",
+    "selectAtLeast1option":"Изаберите најмање једну опцију"   
+
+}

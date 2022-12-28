@@ -1,0 +1,11 @@
+{
+    "languageName":"Malay",
+    "passwordGenerator":"Penjana kata laluan",
+    "upperCase":"Huruf besar",
+    "lowerCase":"Huruf kecil",
+    "symbols":"Simbol",
+    "numbers":"Nombor",
+    "generatePassword":"Hasilkan kata laluan",
+    "passwordCopiedToClipboard":"Kata laluan disalin ke Papan Klip",
+    "selectAtLeast1option":"Pilih sekurang-kurangnya satu pilihan"         
+}

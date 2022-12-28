@@ -1,0 +1,11 @@
+{
+    "languageName":"Danish",
+    "passwordGenerator":"Adgangskode generator",
+    "upperCase":"Store bogstaver",
+    "lowerCase":"Små bogstaver",
+    "symbols":"Symboler",
+    "numbers":"Tal",
+    "generatePassword":"Generer adgangskode",
+    "passwordCopiedToClipboard":"Adgangskode kopieret til Udklipsholder",
+    "selectAtLeast1option":"Vælg mindst én mulighed"
+}

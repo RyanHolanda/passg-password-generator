@@ -1,0 +1,11 @@
+{
+    "languageName":"Belarusian",
+    "passwordGenerator":"Генератар пароляў",
+    "upperCase":"Вялікі рэгістр",
+    "lowerCase":"Малы рэгістр",
+    "symbols":"Сімвалы",
+    "numbers":"Лічбы",
+    "generatePassword":"Стварыць пароль",
+    "passwordCopiedToClipboard":"Пароль скапіраваны ў буфер абмену",
+    "selectAtLeast1option":"Выберыце хаця б адзін варыянт"
+}

@@ -1,0 +1,11 @@
+{
+    "languageName":"English",
+    "passwordGenerator":"Wachtwoord generator",
+    "upperCase":"Hoofdletters",
+    "lowerCase":"Hoofdletters",
+    "symbols":"Hoofdletters",
+    "numbers":"Nummers",
+    "generatePassword":"Genereer wachtwoord",
+    "passwordCopiedToClipboard":"Wachtwoord gekopieerd naar klembord",
+    "selectAtLeast1option":"Selecteer minimaal één optie"   
+}

@@ -1,0 +1,11 @@
+{
+    "languageName":"Greek",
+    "passwordGenerator":"Γεννήτρια κωδικών πρόσβασης",
+    "upperCase":"Κεφαλαία",
+    "lowerCase":"Πεζά",
+    "symbols":"Πεζά",
+    "numbers":"Αριθμοί",
+    "generatePassword":"Δημιουργία κωδικού πρόσβασης",
+    "passwordCopiedToClipboard":"Ο κωδικός πρόσβασης αντιγράφηκε στο Πρόχειρο",
+    "selectAtLeast1option":"Επιλέξτε τουλάχιστον μία επιλογή"      
+}

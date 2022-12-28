@@ -1,0 +1,11 @@
+{
+    "languageName":"Persian",
+    "passwordGenerator":"تولید کننده رمز عبور",
+    "upperCase":"حروف بزرگ",
+    "lowerCase":"حروف کوچک",
+    "symbols":"نمادها",
+    "numbers":"شماره",
+    "generatePassword":"ایجاد گذرواژه",
+    "passwordCopiedToClipboard":"رمز عبور در کلیپ بورد کپی شد",
+    "selectAtLeast1option":"حداقل یک گزینه را انتخاب کنید"
+}

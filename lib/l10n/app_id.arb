@@ -1,0 +1,11 @@
+{
+    "languageName":"Indonesian",
+    "passwordGenerator":"Pembuat kata sandi",
+    "upperCase":"Huruf besar",
+    "lowerCase":"Huruf kecil",
+    "symbols":"Simbol",
+    "numbers":"Angka",
+    "generatePassword":"Hasilkan kata sandi",
+    "passwordCopiedToClipboard":"Kata sandi disalin ke Clipboard",
+    "selectAtLeast1option":"Pilih setidaknya satu opsi"
+}

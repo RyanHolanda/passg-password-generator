@@ -1,0 +1,11 @@
+{
+    "languageName":"Amharic",
+    "passwordGenerator":"የይለፍ ቃል አመንጪ",
+    "upperCase":"ከፍተኛ መያዣ",
+    "lowerCase":"የታችኛው መያዣ",
+    "symbols":"ምልክቶች",
+    "numbers":"ቁጥሮች",
+    "generatePassword":"የይለፍ ቃል ይፍጠሩ",
+    "passwordCopiedToClipboard":"የይለፍ ቃል ወደ ቅንጥብ ሰሌዳ ተቀድቷል።",
+    "selectAtLeast1option":"ቢያንስ አንድ አማራጭ ይምረጡ"
+}

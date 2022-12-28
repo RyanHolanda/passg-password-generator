@@ -1,0 +1,11 @@
+{
+    "languageName":"Hindi",
+    "passwordGenerator":"पासवर्ड जनरेटर",
+    "upperCase":"अपरकेस",
+    "lowerCase":"छोटे",
+    "symbols":"प्रतीक",
+    "numbers":"नंबर",
+    "generatePassword":"पासवर्ड उत्पन्न करें",
+    "passwordCopiedToClipboard":"पासवर्ड क्लिपबोर्ड पर कॉपी किया गया",
+    "selectAtLeast1option":"कम से कम एक विकल्प चुनें"
+}

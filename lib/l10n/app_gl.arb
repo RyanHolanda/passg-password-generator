@@ -1,0 +1,11 @@
+{
+    "languageName":"Galician",
+    "passwordGenerator":"Xerador de contrasinais",
+    "upperCase":"Maiúscula",
+    "lowerCase":"Minúsculas",
+    "symbols":"Símbolos",
+    "numbers":"Números",
+    "generatePassword":"Xerar contrasinal",
+    "passwordCopiedToClipboard":"Copiouse o contrasinal no Portapapeis",
+    "selectAtLeast1option":"Seleccione polo menos unha opción"
+}

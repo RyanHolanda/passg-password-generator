@@ -1,0 +1,12 @@
+{
+    "languageName":"Maltese",
+    "passwordGenerator":"Ġeneratur tal-password",
+    "upperCase":"Majju",
+    "lowerCase":"B'ittri żgħar",
+    "symbols":"Simboli",
+    "numbers":"Numri",
+    "generatePassword":"Iġġenera password",
+    "passwordCopiedToClipboard":"Password kkupjata fil-Klipboard",
+    "selectAtLeast1option":"Agħżel mill-inqas għażla waħda"
+
+}

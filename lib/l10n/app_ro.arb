@@ -1,0 +1,11 @@
+{
+    "languageName":"Romanian",
+    "passwordGenerator":"Generator de parolă",
+    "upperCase":"Majuscule",
+    "lowerCase":"Litere mici",
+    "symbols":"Simboluri",
+    "numbers":"numere",
+    "generatePassword":"Generați parola",
+    "passwordCopiedToClipboard":"Parola a fost copiată în Clipboard",
+    "selectAtLeast1option":"Selectați cel puțin o opțiune"   
+}

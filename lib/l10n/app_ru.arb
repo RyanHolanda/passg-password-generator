@@ -1,0 +1,11 @@
+{
+    "languageName":"Russian",
+    "passwordGenerator":"Генератор паролей",
+    "upperCase":"Верхний регистр",
+    "lowerCase":"Нижний регистр",
+    "symbols":"Символы",
+    "numbers":"Числа",
+    "generatePassword":"Сгенерировать пароль",
+    "passwordCopiedToClipboard":"Пароль скопирован в буфер обмена",
+    "selectAtLeast1option":"Выберите хотя бы один вариант"   
+}

@@ -1,0 +1,11 @@
+{
+    "languageName":"Bosnian",
+    "passwordGenerator":"Generator lozinki",
+    "upperCase":"Velika slova",
+    "lowerCase":"mala slova",
+    "symbols":"Simboli",
+    "numbers":"Brojevi",
+    "generatePassword":"Generiraj lozinku",
+    "passwordCopiedToClipboard":"Lozinka je kopirana u međuspremnik",
+    "selectAtLeast1option":"Odaberite barem jednu opciju"
+}

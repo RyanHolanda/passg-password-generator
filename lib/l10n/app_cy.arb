@@ -1,0 +1,12 @@
+{
+    "languageName":"Welsh",
+    "passwordGenerator":"Generadur cyfrinair",
+    "upperCase":"Priflythrennau",
+    "lowerCase":"Llythrennau bach",
+    "symbols":"Symbolau",
+    "numbers":"Niferoedd",
+    "generatePassword":"Cynhyrchu cyfrinair",
+    "passwordCopiedToClipboard":"Cyfrinair wedi'i gopïo i'r Clipfwrdd",
+    "selectAtLeast1option":"Dewiswch o leiaf un opsiwn"
+
+}

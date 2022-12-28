@@ -1,0 +1,11 @@
+{
+    "languageName":"French",
+    "passwordGenerator":"Générateur de mot de passe",
+    "upperCase":"Majuscule",
+    "lowerCase":"Minuscule",
+    "symbols":"Symboles",
+    "numbers":"Nombres",
+    "generatePassword":"Générer un mot de passe",
+    "passwordCopiedToClipboard":"Mot de passe copié dans le Presse-papiers",
+    "selectAtLeast1option":"Sélectionnez au moins une option"
+}

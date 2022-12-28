@@ -1,0 +1,11 @@
+{
+    "languageName":"Tamil",
+    "passwordGenerator":"கடவுச்சொல் ஜெனரேட்டர்",
+    "upperCase":"பெரிய எழுத்து",
+    "lowerCase":"சிறிய எழுத்து",
+    "symbols":"சின்னங்கள்",
+    "numbers":"எண்கள்",
+    "generatePassword":"கடவுச்சொல்லை உருவாக்கவும்",
+    "passwordCopiedToClipboard":"கடவுச்சொல் கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது",
+    "selectAtLeast1option":"குறைந்தபட்சம் ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்"   
+}

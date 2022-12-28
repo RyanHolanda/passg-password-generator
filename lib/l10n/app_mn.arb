@@ -1,0 +1,12 @@
+{
+    "languageName":"Mongolian",
+    "passwordGenerator":"Нууц үг үүсгэгч",
+    "upperCase":"Том үсгээр",
+    "lowerCase":"Жижиг үсгээр",
+    "symbols":"Тэмдгүүд",
+    "numbers":"Тоонууд",
+    "generatePassword":"Нууц үг үүсгэх",
+    "passwordCopiedToClipboard":"Нууц үгийг санах ой руу хуулсан",
+    "selectAtLeast1option":"Дор хаяж нэг сонголтыг сонгоно уу"
+
+}

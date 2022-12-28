@@ -1,0 +1,11 @@
+{
+    "languageName":"Khmer",
+    "passwordGenerator":"កម្មវិធីបង្កើតពាក្យសម្ងាត់",
+    "upperCase":"អក្សរ​ធំ",
+    "lowerCase":"អក្សរ​តូច",
+    "symbols":"និមិត្តសញ្ញា",
+    "numbers":"លេខ",
+    "generatePassword":"បង្កើតពាក្យសម្ងាត់",
+    "passwordCopiedToClipboard":"ពាក្យសម្ងាត់ត្រូវបានចម្លងទៅក្ដារតម្បៀតខ្ទាស់",
+    "selectAtLeast1option":"ជ្រើសរើសយ៉ាងហោចណាស់ជម្រើសមួយ។"
+}

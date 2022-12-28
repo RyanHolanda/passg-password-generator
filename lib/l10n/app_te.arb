@@ -1,0 +1,11 @@
+{
+    "languageName":"Telugu",
+    "passwordGenerator":"పాస్వర్డ్ జనరేటర్",
+    "upperCase":"పెద్ద అక్షరం",
+    "lowerCase":"చిన్న అక్షరం",
+    "symbols":"చిహ్నాలు",
+    "numbers":"సంఖ్యలు",
+    "generatePassword":"పాస్వర్డ్ను రూపొందించండి",
+    "passwordCopiedToClipboard":"పాస్‌వర్డ్ క్లిప్‌బోర్డ్‌కి కాపీ చేయబడింది",
+    "selectAtLeast1option":"కనీసం ఒక ఎంపికను ఎంచుకోండి"
+}

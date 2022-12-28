@@ -1,0 +1,11 @@
+{
+    "languageName":"Tsonga",
+    "passwordGenerator":"Muendli wa phaswedi",
+    "upperCase":"Maletere lamakulu",
+    "lowerCase":"Maletere lamatsongo",
+    "symbols":"Swikombiso",
+    "numbers":"Tinhlayo",
+    "generatePassword":"Endla phaswedi",
+    "passwordCopiedToClipboard":"Password yi kopiwile eka Clipboard",
+    "selectAtLeast1option":"Hlawula ndlela yin’we ntsena"   
+}

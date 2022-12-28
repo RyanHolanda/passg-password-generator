@@ -1,0 +1,12 @@
+{
+    "languageName":"Thai",
+    "passwordGenerator":"เครื่องสร้างรหัสผ่าน",
+    "upperCase":"ตัวพิมพ์ใหญ่",
+    "lowerCase":"ตัวพิมพ์เล็ก",
+    "symbols":"สัญลักษณ์",
+    "numbers":"ตัวเลข",
+    "generatePassword":"สร้างรหัสผ่าน",
+    "passwordCopiedToClipboard":"คัดลอกรหัสผ่านไปยังคลิปบอร์ดแล้ว",
+    "selectAtLeast1option":"เลือกอย่างน้อยหนึ่งตัวเลือก"
+
+}
