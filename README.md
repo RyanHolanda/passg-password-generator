@@ -9,4 +9,6 @@ That's a super simple app for Android where you can generate secure and strong p
 
 ## Download
 
-You can check the releases sections to download this application
+You can check the releases sections to download this  or Download it from Google Play Store
+
+Google Play Store Link > https://play.google.com/store/apps/details?id=com.holland.password_generator
