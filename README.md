@@ -1,6 +1,6 @@
 # Passg - Password generator
 
-That's a super simple app where you can generate secure and strong passwords
+That's a super simple app for Android where you can generate secure and strong passwords
 
 
 
