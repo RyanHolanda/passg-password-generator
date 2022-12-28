@@ -108,7 +108,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     });
                   }),
               Padding(
-                padding: const EdgeInsets.symmetric(vertical: 30),
+                padding: const EdgeInsets.symmetric(vertical: 80),
                 child: SizedBox(
                   width: 250,
                   child: ElevatedButton(

@@ -17,7 +17,7 @@ class MySwitch extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.all(15),
+      padding: const EdgeInsets.all(5),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
@@ -27,9 +27,14 @@ class MySwitch extends StatelessWidget {
                 color: Theme.of(context).primaryColor,
                 fontWeight: FontWeight.bold),
           ),
-          CupertinoSwitch(
-            value: value,
-            onChanged: onChanged,
+          Transform.scale(
+            scale: 0.8,
+            child: CupertinoSwitch(
+              trackColor: Theme.of(context).primaryColor.withOpacity(0.1),
+              activeColor: Colors.blue,
+              value: value,
+              onChanged: onChanged,
+            ),
           ),
         ],
       ),
