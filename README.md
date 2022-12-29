@@ -11,4 +11,4 @@ That's a super simple app for Android where you can generate secure and strong p
 
 You can check the releases sections to download this  or Download it from Google Play Store
 
-Google Play Store Link > This application is in review by google and in a few days gonna be on Play Store. Please download from Release Section
+Google Play Store Link > This application is under review by google and in a few days gonna be on Play Store. Please download from Release Section
